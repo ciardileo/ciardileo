@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-  <p>Me chamo Leonardo Ciardi e tenho 15 anos. Programo e desenvolvo projetos desde 2020.<br>Minha linguagem dominante é o Python, porém também tenho conhecimentos em JS. Conheço bastante de HTML e CSS, além de design e versionamento de código.<br>Em geral, gosto bastante da área de tecnologia e exatas, enfatizando na matemática e programação.</p>
+  <p>I'm Leonardo Ciardi, and I'm 15 years old. I've been coding and developing projects since 2020.<br>My main language is Python, but I also work with HTML, CSS and JS<br>I have some skills in video editing, music and design.<br>In general, I like to study the exacts sciences area, emphasizing math and programming.</p>
   <h1>Aprendendo:</h1>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
