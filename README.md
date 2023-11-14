@@ -1,5 +1,6 @@
 <div style="display: inline_block"><br>
-  <p>I'm Leonardo Ciardi, and I'm 15 years old. I've been coding and developing projects since 2020.<br>My main language is Python, but I also work with SQL, HTML, CSS and JS.<br>I have some skills in video editing, music and design.<br>In general, I like to study the exacts sciences area, emphasizing math and programming.</p>
+  <h1>About me</h1>
+  <p>I'm Leonardo Ciardi, and I'm 16 years old. I've been coding and developing projects since 2020.<br>My main language is Python, but I also work with SQL, HTML, CSS and JS.<br>I have some skills in video editing, music and design.<br>In general, I like to study the exacts sciences area, emphasizing math and programming.</p>
   <h1>Frameworks I've worked in Python:</h1>
   <ul>
     <li>Django</li>
