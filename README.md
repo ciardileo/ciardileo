@@ -11,6 +11,8 @@
     <li>Pandas</li>
     <li>Numpy</li>
     <li>Statsmodels</li>
+    <li>Scikit-learn</li>
+    <li>Tensorflow</li>
   </ul>
   <h1>Learning:</h1>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
