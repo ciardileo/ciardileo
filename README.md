@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-I'm a 17-year-old Web and Software Development student af IFSP.<br>💻 Programming since 2021 and always looking to improve<br>🏆 Enthusiast of coding marathons and competitions like OBI (Brazilian Olympiad in Informatics)<br>🥇 Medalist in scientific olympiads like OBA and Canguru
+I'm a 17-year-old Web and Software Development student af IFSP.<br>📍 Currently studying Data Science and AI<br>💻 Programming since 2021 and always looking to improve<br>🏆 Enthusiast of coding marathons and competitions like OBI (Brazilian Olympiad in Informatics)<br>🥇 Medalist in scientific olympiads like OBA and Canguru
 
 
 # 💻 Tech Stack:
