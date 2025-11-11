@@ -1,5 +1,5 @@
 # 🧑‍💻 about me:
-I'm a 18-year-old Web and Software Development student af **IFSP**.<br>📍 Currently studying **Data Science** and **AI**<br>💻 Programming since 2021 and always looking to improve<br>🏆 Enthusiast of coding marathons and competitions like **OBI** (Brazilian Olympiad in Informatics)<br>🥇 Medalist in scientific olympiads like **OBA** and **Canguru**<br>🎒 PACTEC scholarship holder in the research project **MaratonIF: Programação Competitiva como Ferramenta Pedagógica**
+I'm a 18-year-old Web and Software Development student af **IFSP**.<br>📍 Currently studying **Data Science** and **GenAI**<br>💻 Programming since 2021 and always looking to improve<br>🏆 Enthusiast of coding marathons and competitions like **OBI** (Brazilian Olympiad in Informatics)<br>🥇 Medalist in scientific olympiads like **OBA** and **Canguru**<br>🎒 PACTEC scholarship holder in the research project **MaratonIF: Programação Competitiva como Ferramenta Pedagógica**
 
 
 # 💻 my tech stack:
